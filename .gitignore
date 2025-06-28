@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.clean-env/
+clean-env/
+
+# Streamlit cache and logs
+.streamlit/
+*.log
+
+# VS Code config
+.vscode/
+
+# PyCharm config
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Python egg metadata and build artifacts
+*.egg-info/
+dist/
+build/
+
+# Image cache/output (if any)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Google API credentials (if saved locally)
+*.json
+
+# OS file trash
+.Trashes
+
+.env
